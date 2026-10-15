@@ -13,3 +13,5 @@ Contact / 문의: **support@supracore.co.kr**
 GitHub Pages: `main` → `/docs`. Static HTML/CSS with a small language-selection script; no advertising or analytics scripts. First visits show a Korean/English chooser; the selected language is remembered in browser local storage.
 
 Do not send passwords, personal files, or entire security reports. / 암호·개인 파일·전체 보안 보고서는 보내지 마세요.
+
+Brand / 브랜드: **SUPRACORE**
