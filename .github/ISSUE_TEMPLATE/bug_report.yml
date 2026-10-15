@@ -1,0 +1,38 @@
+name: 오류 문의
+description: TidyHawk 사용 중 발생한 문제를 알려주세요.
+title: "[오류] "
+body:
+  - type: markdown
+    attributes:
+      value: "이 문의는 공개됩니다. 암호·개인 파일·전체 보안 보고서를 올리지 마세요. 계정 이름·파일 경로는 가려 주세요."
+  - type: input
+    id: app_version
+    attributes:
+      label: TidyHawk 버전
+      placeholder: 예) 0.2.0
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS 버전
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 순서와 실제 결과
+      description: 개인정보 없이 어떤 버튼을 눌렀는지와 오류 메시지를 알려주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 기대한 결과
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 공개 문의 확인
+      options:
+        - label: 개인정보·암호·개인 파일·전체 보안 보고서를 포함하지 않았습니다.
+          required: true
