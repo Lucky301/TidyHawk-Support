@@ -1,14 +1,15 @@
-# TidyHawk Support
+# TidyHawk Support / 고객지원
 
-TidyHawk의 공개 고객지원·개인정보 처리방침 저장소입니다. 앱 소스 코드나 사용자 파일은 포함하지 않습니다.
+TidyHawk의 공개 고객지원·개인정보 처리방침입니다. / Public support and privacy information for TidyHawk.
 
-- 홈 / 마케팅 URL: https://lucky301.github.io/TidyHawk-Support/
-- 고객지원 URL: https://lucky301.github.io/TidyHawk-Support/support.html
-- 개인정보 처리방침 URL: https://lucky301.github.io/TidyHawk-Support/privacy.html
-- 문의: https://github.com/Lucky301/TidyHawk-Support/issues/new/choose
+Contact / 문의: **support@supracore.co.kr**
 
-문의는 공개됩니다. 암호·개인 파일·개인정보·전체 보안 보고서는 올리지 마세요.
+| 페이지 / Page | 한국어 | English |
+| --- | --- | --- |
+| Home / 홈 | https://lucky301.github.io/TidyHawk-Support/ | https://lucky301.github.io/TidyHawk-Support/en/ |
+| Support / 고객지원 | https://lucky301.github.io/TidyHawk-Support/support.html | https://lucky301.github.io/TidyHawk-Support/en/support.html |
+| Privacy / 개인정보 처리방침 | https://lucky301.github.io/TidyHawk-Support/privacy.html | https://lucky301.github.io/TidyHawk-Support/en/privacy.html |
 
-## 게시
+GitHub Pages: `main` → `/docs`. Static HTML/CSS; no advertising or analytics scripts.
 
-GitHub Pages의 `main` 브랜치 `/docs` 폴더를 사용합니다. `docs` 안의 HTML/CSS/이미지만 정적 페이지로 게시하며 별도 분석·광고 스크립트는 없습니다.
+Do not send passwords, personal files, or entire security reports. / 암호·개인 파일·전체 보안 보고서는 보내지 마세요.
