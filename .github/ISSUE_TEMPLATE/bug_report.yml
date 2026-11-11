@@ -4,7 +4,7 @@ title: "[오류] "
 body:
   - type: markdown
     attributes:
-      value: "이 문의는 공개됩니다. 암호·개인 파일·전체 보안 보고서를 올리지 마세요. 계정 이름·파일 경로는 가려 주세요."
+      value: "이 문의는 공개됩니다. 암호나 개인 파일을 올리지 마세요. 계정 이름·파일 경로는 가려 주세요."
   - type: input
     id: app_version
     attributes:
@@ -34,5 +34,5 @@ body:
     attributes:
       label: 공개 문의 확인
       options:
-        - label: 개인정보·암호·개인 파일·전체 보안 보고서를 포함하지 않았습니다.
+        - label: 개인정보·암호·개인 파일을 포함하지 않았습니다.
           required: true
